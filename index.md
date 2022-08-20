@@ -88,20 +88,22 @@ Emphasis on using a geographic information system (GIS) to create a geographical
 
 ### Other Wildlife Projects
 
-
+Comparing songbird abundance and species richness with blend and black-oil
+sunflower seeds
 [Songbird research](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
 
-Trail camera vs. track surveys
+Comparing Track and Field Camera Methods for Wildlife
+Inventories
 [Trail camera vs. track surveys](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330565/DReisch.Final.Draft.Track.and.Camera.methods.pdf)
 
 
 
 # Transcripts
 University of Rhode Island
-[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
+[Transcript_URI](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
 
 Rhode Island College
-[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
+[Transcript RIC](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
 
 ![image](https://user-images.githubusercontent.com/111160288/184464640-16845245-3f6c-4d10-9cdb-98570a2179d0.png)
 
