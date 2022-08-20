@@ -67,10 +67,14 @@ I created using ArcMap a geospatial database of the flyways of seabirds and shor
 ![image](https://user-images.githubusercontent.com/111160288/184465574-a16e0e47-b18a-4fc1-8cf0-82254e20f186.png)
 
 **Sample Maps**
+
+
 Demonstrated map-making skills with ArcMap
 
 [map1.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9387672/map1.pdf)
+
 [map2.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9387671/map2.pdf)
+
 
 **Relevant Coursework**
 
