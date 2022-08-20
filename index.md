@@ -121,11 +121,11 @@ Inventories
 # Transcripts
 University of Rhode Island
 
-[Transcript URI](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
+[URI](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
 
 Rhode Island College
 
-[Transcript RIC](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
+[RIC](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
 
 ![image](https://user-images.githubusercontent.com/111160288/184464640-16845245-3f6c-4d10-9cdb-98570a2179d0.png)
 
