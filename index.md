@@ -101,19 +101,28 @@ Emphasis on using a geographic information system (GIS) to create a geographical
 
 Comparing songbird abundance and species richness with blend and black-oil
 sunflower seeds
+
 [Songbird research](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
+
+![image](https://user-images.githubusercontent.com/111160288/185757932-f95fc069-8573-4cd0-a32e-351e96c28388.png)
+
+
 
 Comparing Track and Field Camera Methods for Wildlife
 Inventories
+
 [Trail camera vs. track surveys](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330565/DReisch.Final.Draft.Track.and.Camera.methods.pdf)
 
+![image](https://user-images.githubusercontent.com/111160288/185758023-81bd971a-9278-44d0-92ca-d2c0b3d1829f.png)
 
 
 # Transcripts
 University of Rhode Island
+
 [Transcript_URI](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330399/URI_transcriptnew.pdf)
 
 Rhode Island College
+
 [Transcript RIC](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330398/RIC.Transcript.new.pdf)
 
 ![image](https://user-images.githubusercontent.com/111160288/184464640-16845245-3f6c-4d10-9cdb-98570a2179d0.png)
