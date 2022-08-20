@@ -62,10 +62,15 @@ I specialize in surveying mammals, amphibians, and birds with extensive experien
 
 # GIS Projects
 
-I created using ArcMap a visual representation of the flyways of seabirds and shorebirds passing over Block Island, RI. Using spatial data queries and topological analyses, risk assessment was estimated in proximity to human development (i.e. airports, wind turbines, etc.).
+I created using ArcMap a geospatial database of the flyways of seabirds and shorebirds passing over Block Island, RI. Using spatial data queries and topological analyses, risk assessment was estimated in proximity to human development (i.e. airports, wind turbines, etc.).
 
 ![image](https://user-images.githubusercontent.com/111160288/184465574-a16e0e47-b18a-4fc1-8cf0-82254e20f186.png)
 
+**Sample Maps**
+Demonstrated map-making skills with ArcMap
+
+[map1.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9387672/map1.pdf)
+[map2.pdf](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9387671/map2.pdf)
 
 **Relevant Coursework**
 
@@ -83,11 +88,11 @@ Emphasis on using a geographic information system (GIS) to create a geographical
 
 ### Other Wildlife Projects
 
-Songbird research
-[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
+
+[Songbird research](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330525/Reisch_Songbird_Paper.pdf)
 
 Trail camera vs. track surveys
-[Link](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330565/DReisch.Final.Draft.Track.and.Camera.methods.pdf)
+[Trail camera vs. track surveys](https://github.com/Daniel-Reisch/Daniel-Reisch.github.io/files/9330565/DReisch.Final.Draft.Track.and.Camera.methods.pdf)
 
 
 
