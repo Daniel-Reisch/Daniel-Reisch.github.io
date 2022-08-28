@@ -62,11 +62,17 @@ I specialize in surveying mammals, amphibians, and birds with extensive experien
 
 # GIS Projects
 
-I created using ArcMap a geospatial database of the flyways of seabirds and shorebirds passing over Block Island, RI. Using spatial data queries and topological analyses, risk assessment was estimated in proximity to human development (i.e. airports, wind turbines, etc.).
-
 ![image](https://user-images.githubusercontent.com/111160288/184465574-a16e0e47-b18a-4fc1-8cf0-82254e20f186.png)
 
-**Sample Maps**
+
+I created using ArcMap a geospatial database of the flyways of seabirds and shorebirds passing over Block Island, RI. Using spatial data queries and topological analyses, risk assessment was estimated in proximity to human development (i.e. airports, wind turbines, etc.).
+
+
+
+![image](https://user-images.githubusercontent.com/111160288/187057241-4acd2f6b-0e7c-483c-b047-a64dc1c24631.png)
+
+
+**Other Sample Maps**
 
 
 
@@ -107,6 +113,8 @@ sunflower seeds
 
 ![image](https://user-images.githubusercontent.com/111160288/185757932-f95fc069-8573-4cd0-a32e-351e96c28388.png)
 
+
+###
 
 
 Comparing Track and Field Camera Methods for Wildlife
